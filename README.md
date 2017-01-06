@@ -39,3 +39,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ```
 IMP points calculator
 ```
+` var x = 0; `
